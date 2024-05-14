@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+
+accounts:
+  message: "Welcome to my account microservice local REST API"
+  contactDetails:
+    name: "Faisal Hariry - JAVA Developer"
+    email: "faisal.hariry@gmail.com"
+  onCallSupport:
+    - 00962758739849
+    - 00962795897393
