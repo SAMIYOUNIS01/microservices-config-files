@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to loans microservice RESP API"
+  message: "Welcome to loans microservice Production RESP API"
   contactDetails:
     name: "Sammy Younis - JAVA DEVELOPER"
     email: "{cipher}0c136db2fc118ea4ed092ebb19efbebd41b206739e000c5e83c1241d849ce8e20447f9be1c500f4a7182819e68b637f7"
