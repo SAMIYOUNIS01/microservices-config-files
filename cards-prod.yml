@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to my cards microservice prod REST API"
+  message: "Welcome to my cards microservice Production REST API"
   contactDetails:
     name: "Sammy Younis - Java Developer"
     email: "{cipher}0c136db2fc118ea4ed092ebb19efbebd41b206739e000c5e83c1241d849ce8e20447f9be1c500f4a7182819e68b637f7"
