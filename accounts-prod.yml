@@ -3,10 +3,10 @@ build:
 
 
 accounts:
-  message: "Welcome to my account microservice prod REST API"
+  message: "Welcome to my account microservice production REST API"
   contactDetails:
     name: "Sammy Younis - JAVA Developer"
-    email: "sam.younis.sy@gmail.com"
+    email: "{cipher}0c136db2fc118ea4ed092ebb19efbebd41b206739e000c5e83c1241d849ce8e20447f9be1c500f4a7182819e68b637f7"
   onCallSupport:
     - 00962797916142
     - 00962797945532
